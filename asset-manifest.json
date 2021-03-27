@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.3aa767c0.chunk.css",
-    "main.js": "/static/js/main.897a5585.chunk.js",
-    "main.js.map": "/static/js/main.897a5585.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.592bbf92.js",
-    "runtime-main.js.map": "/static/js/runtime-main.592bbf92.js.map",
-    "static/css/2.5cee1a4f.chunk.css": "/static/css/2.5cee1a4f.chunk.css",
-    "static/js/2.a74ac525.chunk.js": "/static/js/2.a74ac525.chunk.js",
-    "static/js/2.a74ac525.chunk.js.map": "/static/js/2.a74ac525.chunk.js.map",
-    "static/js/3.bd340322.chunk.js": "/static/js/3.bd340322.chunk.js",
-    "static/js/3.bd340322.chunk.js.map": "/static/js/3.bd340322.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.5cee1a4f.chunk.css.map": "/static/css/2.5cee1a4f.chunk.css.map",
-    "static/css/main.3aa767c0.chunk.css.map": "/static/css/main.3aa767c0.chunk.css.map",
-    "static/js/2.a74ac525.chunk.js.LICENSE.txt": "/static/js/2.a74ac525.chunk.js.LICENSE.txt"
+    "main.css": "/bimdev/static/css/main.3aa767c0.chunk.css",
+    "main.js": "/bimdev/static/js/main.c87ff196.chunk.js",
+    "main.js.map": "/bimdev/static/js/main.c87ff196.chunk.js.map",
+    "runtime-main.js": "/bimdev/static/js/runtime-main.14b8c920.js",
+    "runtime-main.js.map": "/bimdev/static/js/runtime-main.14b8c920.js.map",
+    "static/css/2.5cee1a4f.chunk.css": "/bimdev/static/css/2.5cee1a4f.chunk.css",
+    "static/js/2.68815966.chunk.js": "/bimdev/static/js/2.68815966.chunk.js",
+    "static/js/2.68815966.chunk.js.map": "/bimdev/static/js/2.68815966.chunk.js.map",
+    "static/js/3.c9a29f8c.chunk.js": "/bimdev/static/js/3.c9a29f8c.chunk.js",
+    "static/js/3.c9a29f8c.chunk.js.map": "/bimdev/static/js/3.c9a29f8c.chunk.js.map",
+    "index.html": "/bimdev/index.html",
+    "static/css/2.5cee1a4f.chunk.css.map": "/bimdev/static/css/2.5cee1a4f.chunk.css.map",
+    "static/css/main.3aa767c0.chunk.css.map": "/bimdev/static/css/main.3aa767c0.chunk.css.map",
+    "static/js/2.68815966.chunk.js.LICENSE.txt": "/bimdev/static/js/2.68815966.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.592bbf92.js",
+    "static/js/runtime-main.14b8c920.js",
     "static/css/2.5cee1a4f.chunk.css",
-    "static/js/2.a74ac525.chunk.js",
+    "static/js/2.68815966.chunk.js",
     "static/css/main.3aa767c0.chunk.css",
-    "static/js/main.897a5585.chunk.js"
+    "static/js/main.c87ff196.chunk.js"
   ]
 }
