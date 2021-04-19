@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bimdev/static/css/main.5c692bf2.chunk.css",
-    "main.js": "/bimdev/static/js/main.e1d63a33.chunk.js",
-    "main.js.map": "/bimdev/static/js/main.e1d63a33.chunk.js.map",
+    "main.css": "/bimdev/static/css/main.d1746d98.chunk.css",
+    "main.js": "/bimdev/static/js/main.ed739298.chunk.js",
+    "main.js.map": "/bimdev/static/js/main.ed739298.chunk.js.map",
     "runtime-main.js": "/bimdev/static/js/runtime-main.e085275f.js",
     "runtime-main.js.map": "/bimdev/static/js/runtime-main.e085275f.js.map",
     "static/css/2.5cee1a4f.chunk.css": "/bimdev/static/css/2.5cee1a4f.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.e373706e.chunk.js.map": "/bimdev/static/js/3.e373706e.chunk.js.map",
     "index.html": "/bimdev/index.html",
     "static/css/2.5cee1a4f.chunk.css.map": "/bimdev/static/css/2.5cee1a4f.chunk.css.map",
-    "static/css/main.5c692bf2.chunk.css.map": "/bimdev/static/css/main.5c692bf2.chunk.css.map",
+    "static/css/main.d1746d98.chunk.css.map": "/bimdev/static/css/main.d1746d98.chunk.css.map",
     "static/js/2.035baffd.chunk.js.LICENSE.txt": "/bimdev/static/js/2.035baffd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e085275f.js",
     "static/css/2.5cee1a4f.chunk.css",
     "static/js/2.035baffd.chunk.js",
-    "static/css/main.5c692bf2.chunk.css",
-    "static/js/main.e1d63a33.chunk.js"
+    "static/css/main.d1746d98.chunk.css",
+    "static/js/main.ed739298.chunk.js"
   ]
 }
