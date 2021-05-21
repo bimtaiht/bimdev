@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bimdev/static/css/main.06fba44c.chunk.css",
-    "main.js": "/bimdev/static/js/main.1201705c.chunk.js",
-    "main.js.map": "/bimdev/static/js/main.1201705c.chunk.js.map",
-    "runtime-main.js": "/bimdev/static/js/runtime-main.4fc259e6.js",
-    "runtime-main.js.map": "/bimdev/static/js/runtime-main.4fc259e6.js.map",
+    "main.css": "/bimdev/static/css/main.4da682c2.chunk.css",
+    "main.js": "/bimdev/static/js/main.085d50e1.chunk.js",
+    "main.js.map": "/bimdev/static/js/main.085d50e1.chunk.js.map",
+    "runtime-main.js": "/bimdev/static/js/runtime-main.9f51f41a.js",
+    "runtime-main.js.map": "/bimdev/static/js/runtime-main.9f51f41a.js.map",
     "static/css/2.5cee1a4f.chunk.css": "/bimdev/static/css/2.5cee1a4f.chunk.css",
-    "static/js/2.8902a715.chunk.js": "/bimdev/static/js/2.8902a715.chunk.js",
-    "static/js/2.8902a715.chunk.js.map": "/bimdev/static/js/2.8902a715.chunk.js.map",
-    "static/js/3.4ad8ab00.chunk.js": "/bimdev/static/js/3.4ad8ab00.chunk.js",
-    "static/js/3.4ad8ab00.chunk.js.map": "/bimdev/static/js/3.4ad8ab00.chunk.js.map",
+    "static/js/2.ae9545c7.chunk.js": "/bimdev/static/js/2.ae9545c7.chunk.js",
+    "static/js/2.ae9545c7.chunk.js.map": "/bimdev/static/js/2.ae9545c7.chunk.js.map",
+    "static/js/3.a47fbbf4.chunk.js": "/bimdev/static/js/3.a47fbbf4.chunk.js",
+    "static/js/3.a47fbbf4.chunk.js.map": "/bimdev/static/js/3.a47fbbf4.chunk.js.map",
     "index.html": "/bimdev/index.html",
     "static/css/2.5cee1a4f.chunk.css.map": "/bimdev/static/css/2.5cee1a4f.chunk.css.map",
-    "static/css/main.06fba44c.chunk.css.map": "/bimdev/static/css/main.06fba44c.chunk.css.map",
-    "static/js/2.8902a715.chunk.js.LICENSE.txt": "/bimdev/static/js/2.8902a715.chunk.js.LICENSE.txt"
+    "static/css/main.4da682c2.chunk.css.map": "/bimdev/static/css/main.4da682c2.chunk.css.map",
+    "static/js/2.ae9545c7.chunk.js.LICENSE.txt": "/bimdev/static/js/2.ae9545c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fc259e6.js",
+    "static/js/runtime-main.9f51f41a.js",
     "static/css/2.5cee1a4f.chunk.css",
-    "static/js/2.8902a715.chunk.js",
-    "static/css/main.06fba44c.chunk.css",
-    "static/js/main.1201705c.chunk.js"
+    "static/js/2.ae9545c7.chunk.js",
+    "static/css/main.4da682c2.chunk.css",
+    "static/js/main.085d50e1.chunk.js"
   ]
 }
